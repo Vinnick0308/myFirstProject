@@ -1,4 +1,10 @@
 p {
   font-size: 72px;
   font-weight: lighter;
+  color: #0066ff;
+}
+body{
+  background: linear-gradient(to top, #fefcea, #f1da36);
+    padding: 10px;
+    border: 1px solid #333;
 }
